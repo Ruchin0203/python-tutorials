@@ -1,3 +1,5 @@
+# Dict method
+
 marks = {
       "Ruchin" : 100,
       "Rohit" : 80,
