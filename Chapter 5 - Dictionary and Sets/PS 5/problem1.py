@@ -6,7 +6,7 @@ words = {
     "Palang":"Bad",
     "Dal":"Bhat"
 }
-
+ 
 Word = input("Enter the word ypu want meaning of:")
 
 print(words[Word])
