@@ -1,3 +1,5 @@
+# 1. Write a program to find the greatest of four numbers entered by the user. 
+
 a1=int(input("Enter number 1:"))
 a2=int(input("Enter number 2:"))
 a3=int(input("Enter number 3:"))
