@@ -36,5 +36,3 @@ else:
     #     print("You loos!")
     # else:
     #     print("You win!") 
-        
-    # this shortcut made by logocally
