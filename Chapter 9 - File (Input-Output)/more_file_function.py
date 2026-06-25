@@ -1,3 +1,5 @@
+# it's about more file function
+
 f = open("file.txt","rt")
 data = f.readlines()
 print(data)
